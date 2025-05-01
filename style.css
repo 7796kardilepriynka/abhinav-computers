@@ -762,8 +762,8 @@ color: #DC3545;  /* Red – Location pins */
   margin-right: 8px;
 }
 
-.footer-col h3 .fa-phone-alt {
-  background-color: #198754; /* success green */
+.footer-col h3 .fa-handshake-alt {
+  background-color:#FFC107; /* success green */
   color: white;
   padding: 8px;
   border-radius: 50%;
